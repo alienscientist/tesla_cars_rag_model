@@ -2,6 +2,7 @@
 ## Overview
 This project focuses on developing a multi-document Large Language Model (LLM) agent, specifically tailored to handle technical documentation of Tesla models. 
 The goal is to provide a sophisticated tool for parsing, summarizing, and comparing intricate technical details across various Tesla models.
+- Note: You need to add 'openai_api_key' to .env file to run the code.
 
 ## Implementation Details
 - Document Agents and Top Agent: The architecture for building document-specific agents and a coordinating top agent is adapted from [this project](https://github.com/run-llama/create_llama_projects/blob/main/multi-document-agent/README.md).
