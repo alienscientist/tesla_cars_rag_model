@@ -9,7 +9,7 @@ The goal is to provide a sophisticated tool for parsing, summarizing, and compar
 
 ## Future Directions
 Data-Driven Performance Enhancement
-The performance and capability of the top agent are directly proportional to the quality and diversity of the input data. 
+- The performance and capability of the top agent are directly proportional to the quality and diversity of the input data. 
 By injecting more varied and well-structured data into the LLM model, we can significantly enhance the quality of the responses.
 
 ### Expansion and Diversification
