@@ -1,4 +1,6 @@
 # Multi-Document LLM Agent for Tesla Technical Documentation
+![Screenshot 2023-12-16 100411](https://github.com/alienscientist/tesla_cars_rag_model/assets/119079691/df88a366-0655-4b3d-9b4f-983cf96f0ddf)
+
 ## Overview
 This project focuses on developing a multi-document Large Language Model (LLM) agent, specifically tailored to handle technical documentation of Tesla models. 
 The goal is to provide a sophisticated tool for parsing, summarizing, and comparing intricate technical details across various Tesla models.
